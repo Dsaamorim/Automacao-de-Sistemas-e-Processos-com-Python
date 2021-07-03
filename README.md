@@ -10,4 +10,4 @@ O programa soma todo faturamento obtido assim como a quantidade
 
 E no final um email é enviado para eu mesmo, com uma mensagem junto com os reajustes feitos 
 
-Coloquei um GIF para tentar mostrar da melhor maneira possível
+Coloquei um GIF para tentar mostrar da melhor maneira possível e salvei o projeto como .py
