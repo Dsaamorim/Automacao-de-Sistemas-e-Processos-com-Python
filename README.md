@@ -9,3 +9,5 @@ Eu usei muito time.sleep pois meu notebook é antigo, então usei bastante, para
 O arquivo baixado não foi mostrado pois utilizei gravador de tela e capturou apenas dentro da janela respectiva
 
 Coloquei um GIF para tentar mostrar da melhor maneira possível e salvei o projeto como .py
+
+![](https://github.com/Dsaamorim/Automacao-de-Sistemas-e-Processos-com-Python/blob/main/Automa%C3%A7%C3%A3o%20de%20Sistemas%20e%20Processos%20com%20Python.gif)
